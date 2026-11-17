@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB7C5,100:E6E6FA&height=160&section=header&text=Nave%20Encephalon&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Neurociencia%20%26%20Educacao%20Digital%20no%20Roblox&descSize=15&descAlignY=62&animation=twinkling" width="100%" alt="Nave Encephalon Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB7C5,100:E6E6FA&height=160&section=header&text=Nave%20Encephalon&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Neurociencia%20e%20Educacao%20Digital%20no%20Roblox&descSize=15&descAlignY=62&animation=twinkling" width="100%" alt="Nave Encephalon Banner" />
 
   <p>｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ──────────── ꒰ 🧠 ꒱ ──────────── ⋆｡ﾟ☾ ﾟ｡⋆｡☁︎｡ﾟ</p>
 
