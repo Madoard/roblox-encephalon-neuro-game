@@ -78,3 +78,28 @@ flowchart LR
     GM -->|Sincronizar Estado| RE
     RE -->|Renderizar Narrativa / VFX| UI
     RE -->|Atualizar Telemetria| HUD
+```
+- **Fluxo Orientado a Estados:** O `GameManager` controla a progressão dos 5 emblemas a partir da `Base Central` até o desbloqueio do portal para **O Algoritmo**.
+- **Simulação de Telemetria em Tempo Real:** O `DopamineEngine` calcula dinamicamente curvas de estabilidade (Reator de Notificação) e variação de ansiedade (Baía do Alarme) conforme as escolhas do jogador.
+- **Configuração Modular:** Todas as notificações simuladas, armadilhas *pop-up* e substituições de hábitos são isoladas em módulos de dados (`NeuroZonesConfig.luau`) para facilitar o balanceamento.
+
+<br/>
+
+<p align="center">୨୧ ─────── ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. ─────── ୨୧</p>
+
+### <p align="center">˚₊‧꒰ა 🗺️ Roadmap de Desenvolvimento 🗺️ ໒꒱‧₊˚</p>
+
+- [x] **Pesquisa Neurobiológica & Conceito:** Mapeamento das vias dopaminérgicas e ciclos de recompensa em mecânicas de jogo.
+- [x] **Game Design Document (GDD):** Estruturação completa do fluxo de setores, puzzles e conexões no Miro.
+- [x] **Roteiro Narrativo & Diálogos:** Sequência introdutória e script em formato *Visual Novel* do *NPC Accumbens*.
+- [ ] **Arquitetura Core do Servidor (`Luau`):** Implementação da máquina de estados `GameManager`, rastreamento de emblemas e `DopamineEngine`.
+- [ ] **Mini-Games & UI do Cliente:** Construção dos HUDs interativos (Reator de Notificação, Pop-ups da Sala de Controle e Barra de Ansiedade).
+- [ ] **Confronto Final & Playtesting:** Integração da batalha contra *O Algoritmo*, balanceamento e testes com o público-alvo.
+
+<br/>
+
+<div align="center">
+  <p>°•. ✿ .•° ────── ꒰ 💗 ꒱ ────── °•. ✿ .•°</p>
+  <p><i>Projetado e desenvolvido por <b>Maria Eduarda Gonçalves</b></i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6E6FA,50:FFB7C5,100:FFD1DC&height=90&section=footer" width="100%" alt="Footer Wave" />
+</div>
